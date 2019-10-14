@@ -12,5 +12,5 @@ Today I will learn,
 
 My 3 reminders for keeping myself in a growth mindset are:
 - 1. It is ok to walk away from it, take a break before coming back to work if I get stuck
-- 1. _I will **NOT ** get it right away, thats ok._
-- 1. Remember to ask for help, _*I am not alone in this!!!!*_
+- 2. _I will **NOT ** get it right away, thats ok._
+- 3. Remember to ask for help, _*I am not alone in this!!!!*_
