@@ -1,6 +1,6 @@
 # My cheat sheet
 ls  list
-~   shortcut to home directory
+. ~   shortcut to home directory
 .   referance to current directory
 ..  referances parent directory
 cd  change directory
