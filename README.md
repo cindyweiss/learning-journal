@@ -2,7 +2,7 @@
 
 Table of Contents
 - [markdown](markdown.md)
-- growth mindset
+- [growth mindset](growth-mindset.md)
 - sandbox learning
 
 
