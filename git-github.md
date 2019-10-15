@@ -6,7 +6,7 @@ It is **DVCS** system that allows multiple users to colaberate easily. Git also 
 GitHub is the application or cloud where developers code drafts and final projects live. It is the way to share your code with others. It also acts as your safe keeping so if code is lost locally you will always have access to your code from the cloud. 
 
 
-###Important to note:
+Important to note:
 There are two types of version control that are used.
 
 1. *Centralized Version Control System* or **CVCS**-This system entails a single server storing all changes and file versions, 
