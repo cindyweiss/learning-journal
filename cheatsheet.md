@@ -1,6 +1,14 @@
 # My cheat sheet
-ls  list
-. ~   shortcut to home directory
+What I know about text editors;
+
+
+
+
+
+
+
+* ls  list
+* . ~   shortcut to home directory
 .   referance to current directory
 ..  referances parent directory
 cd  change directory
