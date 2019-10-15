@@ -1,7 +1,7 @@
 # Cindy's learning-journal
 
-Today I will learn,
-- markdown
+Table of Contents
+- [markdown](markdown.md)
 - growth mindset
 - sandbox learning
 
