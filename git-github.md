@@ -1,4 +1,4 @@
-#Git vs GitHub
+# Git vs GitHub
 
 Git is a version control software program used in code editing. 
 It is **DVCS** system that allows multiple users to colaberate easily. Git also allows all versions of the code worked on to be saved so the differant itterations made along the way can be revisited and tracked. This is true for each developer working on the colaberation as well as the project as a whole. 
