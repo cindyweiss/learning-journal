@@ -5,12 +5,7 @@ It is DVCS system that allows multiple users to colaberate easily.
 GitHub is the application or cloud where developers code drafts and final projects live.
 
 
-
-
-
-
-##Important to note; There are two types of version control that are used.
-They are:
+Important to note; There are two types of version control that are used.
 
 1. Centralized Version Control System or CVCS-This system entails a single server storing all changes and file versions, 
 which can be accessed by various clients. 
