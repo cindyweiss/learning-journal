@@ -1,7 +1,7 @@
 # HTML in a nut shell
 
 ** What is html? ** 
-Html is a easiliy accessible coding language used to create webpages. It provides the structure for the web page that you are designing. 
+Html is an easily accessible coding language used to create webpages. It provides the structure for the web page that you are designing. 
 
 **Inside HTML**
 
@@ -13,22 +13,10 @@ Html is a easiliy accessible coding language used to create webpages. It provide
 
 ## **HTML tags and their descriptions**
 
-Element	Description
-<blockquote>	The HTML <blockquote> Element (or HTML Block Quotation Element) indicates that the enclosed text is an extended quotation. Usually, this is rendered visually by indentation (see Notes for how to change it). A URL for the source of the quotation may be given using the cite attribute, while a text representation of the source can be given using the <cite> element.
-<dd>	The HTML <dd> element provides the description, definition, or value for the preceding term (<dt>) in a description list (<dl>).
-<dir>	The obsolete HTML Directory element (<dir>) is used as a container for a directory of files and/or folders, potentially with styles and icons applied by the user agent.
-<div>	The HTML Content Division element (<div>) is the generic container for flow content. It has no effect on the content or layout until styled using CSS.
-<dl>	The HTML <dl> element represents a description list. The element encloses a list of groups of terms (specified using the <dt> element) and descriptions (provided by <dd> elements). Common uses for this element are to implement a glossary or to display metadata (a list of key-value pairs).
-<dt>	The HTML <dt> element specifies a term in a description or definition list, and as such must be used inside a <dl> element.
-<figcaption>	The HTML <figcaption> or Figure Caption element represents a caption or legend describing the rest of the contents of its parent <figure> element.
-<figure>	The HTML <figure> (Figure With Optional Caption) element represents self-contained content, potentially with an optional caption, which is specified using the (<figcaption>) element.
-<hr>	The HTML <hr> element represents a thematic break between paragraph-level elements: for example, a change of scene in a story, or a shift of topic within a section.
-<li>	The HTML <li> element is used to represent an item in a list.
-<main>	The HTML <main> element represents the dominant content of the <body> of a document. The main content area consists of content that is directly related to or expands upon the central topic of a document, or the central functionality of an application.
-<ol>	The HTML <ol> element represents an ordered list of items, typically rendered as a numbered list.
-<p>	The HTML <p> element represents a paragraph.
-<pre>	The HTML <pre> element represents preformatted text which is to be presented exactly as written in the HTML file.
-<ul>	The HTML <ul> element represents an unordered list of items, typically rendered as a bulleted list.
-
-
+_body element_ is everything shown inside the main browser window
+_h1-h6 elements_ are headings, with 1 being the most prominent and 6 being the least prominent
+_p element_ are at the begining and ending of paragraphs
+_b element_ creates a line break since html does not normally acknowledge white space
+_i element_ make characters appear italic
+_strong element_ indicates strong importance and by default browsers will show contents of strong elements in bold
 
